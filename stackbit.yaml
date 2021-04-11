@@ -29,7 +29,7 @@ models:
         - type: string
           name: initials
         - type: string
-          name: nome
+          name: nomeeee
         - type: string
           name: email
         - type: string
